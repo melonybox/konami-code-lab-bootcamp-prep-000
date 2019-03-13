@@ -28,5 +28,3 @@ function init() {
     }
   });
 }
-
-init()
