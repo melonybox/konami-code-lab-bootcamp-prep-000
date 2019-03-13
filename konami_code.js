@@ -13,7 +13,7 @@ const codes = [
 
 function init() {
   const input = document.getElementsByTagName('body')[0];
-  let i = codes[i]
+  let i = 0
   
   input.addEventListener('keydown', function(e) {
     let key = e.key;
